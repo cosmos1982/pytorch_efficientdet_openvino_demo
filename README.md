@@ -1,5 +1,5 @@
 # pytorch_efficientdet_openvino_demo
-OpenVINO demo for Yet-Another-Efficientdet<br>
+This is an OpenVINO demo for [zylo117/Yet-Another-Efficientdet](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch).<br>
 Works to do:<br>
 - [x] export pytorch model to onnx<br>
 - convert onnx to openvino ir<br>
